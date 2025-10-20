@@ -2,6 +2,8 @@
 
 A browser-side analytics toolkit for online forms & polls
 
+![Phanes Logo](./logo.svg)
+
 ## Description
 
 A web app for tracking impressions, drop-offs and user behaviour in surveys/forms — designed for online polls and internal research flows, with click/hover/scroll heatmaps and privacy-first client-side aggregation.
